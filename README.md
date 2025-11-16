@@ -1,5 +1,3 @@
-Here’s a clean, professional **README.md** for your MERN vlog app:
-
 ---
 
 # **Vlogify – MERN Stack Vlog Application**
