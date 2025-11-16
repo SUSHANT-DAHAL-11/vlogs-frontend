@@ -2,7 +2,7 @@
 
 # **Vlogify – MERN Stack Vlog Application**
 
-Vlogify is a full-stack vlog application built using the **MERN stack**, allowing users to upload and share two types of video content:
+#Vlogify is a full-stack vlog application built using the **MERN stack**, allowing users to upload and share two types of video content:
 
 * **Long-form videos**
 * **Short-form videos**
